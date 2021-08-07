@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Authentication Using Supertokens.
 
-Add authentication in tic-tac-toe project using supertokens.
+Add authentication in tic-tac-toe project using supertokens with snapshot and cypress testing.
 
 ## Usage with docker
 
