@@ -1,0 +1,152 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders App correctly 1`] = `
+<div>
+  <h1>
+    Tic-Tac-Toe
+  </h1>
+  <div
+    className="content"
+  />
+  <div
+    className="footer"
+  >
+    <p>
+      v 
+      0.1.0 + 1
+    </p>
+  </div>
+</div>
+`;
+
+exports[`renders Board correctly 1`] = `
+<div
+  className="square"
+>
+  <button
+    className="squareComponent"
+    onClick={[Function]}
+  >
+    X
+  </button>
+  <button
+    className="squareComponent"
+    onClick={[Function]}
+  >
+    O
+  </button>
+  <button
+    className="squareComponent"
+    onClick={[Function]}
+  />
+  <button
+    className="squareComponent"
+    onClick={[Function]}
+  />
+  <button
+    className="squareComponent"
+    onClick={[Function]}
+  >
+    X
+  </button>
+  <button
+    className="squareComponent"
+    onClick={[Function]}
+  />
+  <button
+    className="squareComponent"
+    onClick={[Function]}
+  />
+  <button
+    className="squareComponent"
+    onClick={[Function]}
+  />
+  <button
+    className="squareComponent"
+    onClick={[Function]}
+  />
+</div>
+`;
+
+exports[`renders Game correctly 1`] = `
+Array [
+  <button
+    onClick={[Function]}
+  >
+    Sign Out
+  </button>,
+  <p
+    className="status"
+  >
+    Next player : X
+  </p>,
+  <div
+    className="square"
+  >
+    <button
+      className="squareComponent"
+      onClick={[Function]}
+    />
+    <button
+      className="squareComponent"
+      onClick={[Function]}
+    />
+    <button
+      className="squareComponent"
+      onClick={[Function]}
+    />
+    <button
+      className="squareComponent"
+      onClick={[Function]}
+    />
+    <button
+      className="squareComponent"
+      onClick={[Function]}
+    />
+    <button
+      className="squareComponent"
+      onClick={[Function]}
+    />
+    <button
+      className="squareComponent"
+      onClick={[Function]}
+    />
+    <button
+      className="squareComponent"
+      onClick={[Function]}
+    />
+    <button
+      className="squareComponent"
+      onClick={[Function]}
+    />
+  </div>,
+  <ol
+    className="list"
+  >
+    <li>
+      <button
+        onClick={[Function]}
+      >
+        Go to game start
+      </button>
+    </li>
+  </ol>,
+]
+`;
+
+exports[`renders Square correctly 1`] = `
+<button
+  className="squareComponent"
+  onClick={[Function]}
+>
+  X
+  X
+  O
+  O
+  X
+  X
+  O
+  X
+  O
+</button>
+`;
