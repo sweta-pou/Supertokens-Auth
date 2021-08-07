@@ -1,0 +1,10 @@
+.status {
+  color: black;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.list {
+  list-style-position: inside;
+  text-align: center;
+}
