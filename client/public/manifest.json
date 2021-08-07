@@ -1,0 +1,36 @@
+{
+  "short_name": "React App",
+  "name": "Tic Tac Toe",
+  "icons": [
+    {
+      "src": "maskable_icon.png",
+      "sizes": "666x666",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo256x256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo384x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "logo512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
